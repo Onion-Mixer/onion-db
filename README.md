@@ -1,5 +1,5 @@
 # onion-db
-repo for any needed data such as events, address, abi, withdraw key
+repo for any needed data such as events, withdraw key
 
 ## To update the [depositEvents.json.zip](#events/depositEvents.json.zip)
 * git clone onioncli repo
